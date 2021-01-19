@@ -6,9 +6,10 @@ const data = {
             category: 'Shirts',
             image: '/images/p1.jpg',
             price: 120,
+            countInStock: 0,
             brand: 'Nike',
-            rating: 4.5,
-            numReviews: 10,
+            rating: 3.5,
+            numReviews: 30,
             description: 'producto de alta calidad'
         },
         {
@@ -17,9 +18,10 @@ const data = {
             category: 'Shirts',
             image: '/images/p2.jpg',
             price: 112,
+            countInStock: 10,
             brand: 'Adidas',
-            rating: 4.5,
-            numReviews: 10,
+            rating: 1.5,
+            numReviews: 100,
             description: 'producto de alta calidad'
         },
         {
@@ -28,9 +30,10 @@ const data = {
             category: 'Pants',
             image: '/images/p3.jpg',
             price: 65,
+            countInStock: 10,
             brand: 'Puma',
             rating: 4.9,
-            numReviews: 10,
+            numReviews: 732,
             description: 'producto de alta calidad'
         },
         {
@@ -39,6 +42,7 @@ const data = {
             category: 'Shirts',
             image: '/images/p4.jpg',
             price: 120,
+            countInStock: 10,
             brand: 'Lomas',
             rating: 4.8,
             numReviews: 14,
@@ -50,9 +54,10 @@ const data = {
             category: 'Shirts',
             image: '/images/p5.jpg',
             price: 139,
+            countInStock: 10,
             brand: 'Rebook',
-            rating: 4.5,
-            numReviews: 10,
+            rating: 2.5,
+            numReviews: 121,
             description: 'producto de alta calidad'
         },
         {
@@ -61,9 +66,10 @@ const data = {
             category: 'Shirts',
             image: '/images/p6.jpg',
             price: 139,
+            countInStock: 10,
             brand: 'Rebook',
-            rating: 4.5,
-            numReviews: 10,
+            rating: 5,
+            numReviews: 90,
             description: 'producto de alta calidad'
         },
     ]
